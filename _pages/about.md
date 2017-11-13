@@ -2,7 +2,6 @@
 title: "About"
 permalink: /about/
 date: 2017-11-13
-layout: default
 ---
 
 

@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Solomon Victorino"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars0.githubusercontent.com/u/9170316?s=460&v=4" 
   bio              : "Programmer since 8 years old."
   location         : "The Internet"
   email            : "solomonvictorino@gmail.com"

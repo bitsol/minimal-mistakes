@@ -3,10 +3,8 @@ title: "Up and Running with MonoGame"
 tags:
   - monogame
 ---
-*This post is incomplete. Please don't judge it by its cover.*
 
-
-*This article is part of a series on MonoGame. Keep watch for more content.*
+*This article is part of a series on MonoGame. Keep watch for more content, and don't panic. There will be more.*
 
 ## Who's Mono? Say *what*?
 
@@ -40,7 +38,7 @@ Point your browser over to [the MonoGame downloads page](http://www.monogame.net
 ![The MonoGame Download Page](https://i.imgur.com/BP16NbE.png)
 
 #### A note for Linux users.
-The rest of the installation is trivial, but if you're not a Linux geek, you might need to do this to run the installer:
+The rest of the installation should be trivial on Windows and Mac, but if you're not a Linux geek, you might need to do this to be able to execute the installer script:
 
 ```
 $ chmod +x monogame-sdk.run
@@ -53,6 +51,3 @@ $ sudo ./monogame-sdk.run
 ---
 Now, the MonoDevelop/Visual Studio templates should show up in the new project menu:
 ![MonoGame Visual Studio Templates](https://i.imgur.com/bkxKUlp.png)
-
-### Creating Our Game
-[...]

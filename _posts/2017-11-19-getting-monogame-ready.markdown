@@ -4,7 +4,7 @@ tags:
   - monogame
 ---
 
-*This now incomplete article will be expanded and updated every once in a while.*
+*This incomplete article will be expanded and updated every once in a while.*
 
 ## Who's Mono? Say *what*?
 

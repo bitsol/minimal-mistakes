@@ -2,7 +2,7 @@
 title: "Up and Running with MonoGame"
 tags:
   - monogame
-published: false
+published: true
 ---
 
 *This incomplete article will be expanded and updated every once in a while.*

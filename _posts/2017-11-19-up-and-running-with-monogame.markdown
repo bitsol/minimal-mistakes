@@ -22,8 +22,7 @@ XNA is dead. It has been for a while. Why should you care? Because it's open sou
 
 You might be talking about non-free (mostly freemium) engines with all their nice [legal crap](https://www.unrealengine.com/en-US/eula)... And [then some](https://unity3d.com/legal/terms-of-service). Why would anyone want that? Maybe if they want to throw together a quick prototype. Or if they need easy scripting.
 
-Otherwise, let the MonoGame framework do the real heavy lifting for the programmers, and the artists work on art, not Unity3D. Just my two cents.
-
+Otherwise, let the MonoGame framework do the real heavy lifting for the programmers, and the artists work on art, not Unity3D. Just my two cents. For a less opinionated ~rant~ explaination, I suggest you go [here](http://www.gamefromscratch.com/post/2015/06/13/GameDev-Glossary-Library-Vs-Framework-Vs-Engine.aspx).
 
 
 Without further ado, allow me to bestow upon you a pretty sweet "Hello, World" game.

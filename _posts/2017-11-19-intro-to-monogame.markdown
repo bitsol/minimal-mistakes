@@ -48,7 +48,7 @@ To combat this, you can just build MonoDevelop from source or use [@cra0zy's](ht
 
 Follow the latest instructions [here](https://github.com/cra0zy/monodevelop-run-installer/blob/master/README.md) for using cra0zy's script, or [build MonoDevelop from source](http://www.monodevelop.com/developers/building-monodevelop/).
 
-After MonoDevelop is all set up, installing MonoGame should be trivial. Set the premissions...
+After MonoDevelop is all set up, installing MonoGame should be trivial. Set the premissions of the .run script you downloaded earlier...
 ```
 $ chmod +x monogame-sdk.run
 ```
@@ -62,8 +62,11 @@ If there are any dependencies you need, you should be able to install them with 
 
 ---
 
+After the installation process, the MonoDevelop/Visual Studio templates should show up in the new project menu.
 
-After the installation process, the MonoDevelop/Visual Studio templates should show up in the new project menu:
-![MonoGame Visual Studio Templates](https://i.imgur.com/bkxKUlp.png)
+### Project Setup
 
-Stay tuned, grasshopper.
+This is the most boring bit, but it'll be over as quick as it starts.
+
+To make this easier and remove the need manage multiple projects and resource references, let's make a new cross-platform OpenGL project:
+![MonoGame Visual Studio Templates]({{ "/assets/images/MonoGameTemplates.png" | absolute_url }})

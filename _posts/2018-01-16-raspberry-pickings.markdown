@@ -30,7 +30,9 @@ You get 512 MB of RAM, a 1 GHz core, and a great form factor that could even fit
 #### Purchasing
 [Adafruit](https://www.adafruit.com) sells these at the MSRP: $5 for the regular, and $10 the wireless board. However, this comes with one caveat: you can only purchase one at a time.
 
-Why do the Raspberry Pi resellers place buying limits? As James Hughes, a Raspberry Pi engineer, [put it](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364): "You can buy Zero's in quantity, if you commit to large scale purchasing (1000's), and you will pay more than the individual price (i.e. > $10 for the Pi0W). Basically, a deal with the Foundation."
+Why do the Raspberry Pi resellers place buying limits? A Raspberry Pi engineer named James Hughes seems to be the most active in the community on this topic.
+
+As Hughes (2017) [put it](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364): "You can buy Zero's in quantity, if you commit to large scale purchasing (1000's), and you will pay more than the individual price (i.e. > $10 for the Pi0W). Basically, a deal with the Foundation."
 
 This implies that the Foundation makes a very small profit margin off the Zero at the $10 price, and the quantity is limited to encourage people to purchase the more expensive models.
 
@@ -123,6 +125,7 @@ If you are purchasing a Raspberry Pi Zero or Zero W and want to connect hardware
 
 *Source: [Adafruit](https://www.adafruit.com/product/2822).*
 
+"Like blue jeans and Coca-Cola, the 2x20 male header is the classic option." (Fried, 2015)
 I highly recommend a classic [male header](https://www.adafruit.com/product/2822) (shown above), which gives the most connection strength. Combined with some [jumper wires](https://www.adafruit.com/product/1950) with at least one female connector, your Pi will be ready for anything.
 
 ### Headless Setup
@@ -160,6 +163,9 @@ For the Zero you'll also need...
 Up next are some posts on interfacing and building Pi hardware, making IoT (Internet of Things) devices with the Pi, and maybe even soldering (if I'm up to the task).
 
 ## References
+### Quotes
+
+
 ### Images
 Raspberry Pi Zero W [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3400](https://www.adafruit.com/product/3400)
 

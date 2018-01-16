@@ -25,6 +25,7 @@ At this point, you're probably asking yourself why you should even bother using 
 You really should only be worrying about a couple models.
 ### [Raspberry Pi Zero](https://www.adafruit.com/product/2885) ([W](https://www.adafruit.com/product/3400))
 ![Raspberry Pi Zero](https://cdn-shop.adafruit.com/1200x900/3400-00.jpg)
+
 This tiny $10 thing packs a real punch.
 
 You get 512 MB of RAM, a 1 GHz core, and a great form factor that could even fit in a [mint tin](https://blog.adafruit.com/2016/03/04/mintypi-a-pi-zero-based-gaming-system-in-a-mint-tin-piday-raspberrypi-raspberry_pi/).
@@ -39,6 +40,7 @@ Then, when the Raspberry Pi Foundation [announced](https://www.raspberrypi.org/b
 
 or...
 - Buy this:
+
   ![Raspberry Pi Zero WH](https://www.raspberrypi.org/app/uploads/2018/01/770A4886-500x333.jpg) 
   - *Now I don't have to solder my fingers together just to attach hardware to my Pi.*
   - The Pi Hut [sells this Pi Zero WH](https://thepihut.com/products/raspberry-pi-zero-wh-with-pre-soldered-header) with a presoldered header (more on those later) for the somewhat premium price of £13.40 (~$18). And yes, you can buy more than one.
@@ -64,6 +66,7 @@ What if you **do** want a "desktop" rival? What if you want to do even more with
 
 ### [Raspberry Pi 3](https://www.adafruit.com/product/3055)
 ![Raspberry Pi 3](https://cdn-shop.adafruit.com/970x728/3055-06.jpg)
+
 The Raspberry Pi third-gen [Model B flagship board](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) is my weakness. What can justify paying $35 instead of $10?
 
 A quad-core, 1.2 GHz Broadcom CPU and 1 GB of RAM. *And*, of course, wireless on board.

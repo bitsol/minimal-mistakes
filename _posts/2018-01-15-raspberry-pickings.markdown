@@ -22,7 +22,7 @@ At this point, you're probably asking yourself why you should even bother using 
 - Price. This is listed as a con because of buying limits on the Pi Zero. More on that later.
 - Bulky. The form factor of the Pi ~Zero~ makes them slightly less portable than a microcontroller (which can come in all shapes and sizes).
 ## Which One?
-You really should only be worrying about a couple models.
+You really should only be worrying about a few models.
 ### [Raspberry Pi Zero](https://www.adafruit.com/product/2885) ([W](https://www.adafruit.com/product/3400))
 ![Raspberry Pi Zero](https://cdn-shop.adafruit.com/1200x900/3400-00.jpg)
 

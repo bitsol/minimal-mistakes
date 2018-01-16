@@ -96,7 +96,7 @@ I hate to say this, but to get the pins you need (for putting a Pi in space) it'
 
 ![Compute Module I/O Board v3](https://cdn-shop.adafruit.com/970x728/3442-00.jpg)
 
-"The Compute Module IO Board V3 is a development kit for those who wish to make use of the Raspberry Pi in a more flexible form factor. (Raspberry Pi Foundation, n.d.)
+"The Compute Module IO Board V3 is a development kit for those who wish to make use of the Raspberry Pi in a more flexible form factor." (Raspberry Pi Foundation, n.d.)
 
 This beast gets you 120 pins.
 

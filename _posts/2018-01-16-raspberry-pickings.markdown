@@ -153,7 +153,7 @@ To get a Raspberry Pi functioning as its own desktop computer (if you aren't run
 - A keyboard and mouse.
 - An SD card.
 - Another computer to [flash the SD card](https://learn.adafruit.com/setting-up-a-raspberry-pi-with-noobs/overview) with your chosen operating system or the New Out Of the Box Software (NOOBS) installer, if it isn't pre-flashed already.
-- A 5v mobile micro-USB power supply.
+- A 5V mobile micro-USB power supply (think: high-quality Android charger).
 
 For the Zero you'll also need...
 - A mini-HDMI to HDMI adapter.
@@ -167,7 +167,7 @@ Up next are some posts on interfacing and building Pi hardware, making IoT (Inte
 ### Quotes
 Hughes, J. (2017, October 11). Re: use pi zero w in commercial production [Forum post]. Retrieved from [https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364).
 
-Fried, Limor. (2015, October 26). GPIO header options. In *Introducing the Raspberry Pi Zero* Retrieved from [https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options).
+Fried, Limor. (2015, October 26). GPIO header options. In *Introducing the Raspberry Pi Zero*. Retrieved from [https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options).
 
 ### Images
 Raspberry Pi Zero W [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3400](https://www.adafruit.com/product/3400)

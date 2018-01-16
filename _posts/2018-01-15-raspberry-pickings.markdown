@@ -4,9 +4,9 @@ tags:
   - raspberrypi
 published: false
 ---
-When you want to build an embedded hardware project, or just purchase a cheap board for its possibilities, you should turn to the Raspberry Pi.
+When you want to build an embedded hardware project (like me), or just purchase a cheap board for its possibilities, you should turn to the Raspberry Pi.
 ## Why?
-At this point, you're probably asking yourself why you should even bother using a Raspberry Pi. Here are some **pros** of using this particular full Linux system board.
+At this point, you're probably asking yourself why you should even bother using a Raspberry Pi.
 
 ### Pros
 
@@ -17,10 +17,6 @@ At this point, you're probably asking yourself why you should even bother using 
 - Linux. You can do anything on a PC, they say. Raspberry Pi computers run Linux, I say. You can do anything.
 - Price. Pis range from $5 to around $35 for a bare board.
 
-### Cons
-
-- Price. This is listed as a con because of buying limits on the Pi Zero. More on that later.
-- Bulky. The form factor of the Pi ~Zero~ makes them slightly less portable than a microcontroller (which can come in all shapes and sizes).
 ## Which One?
 You really should only be worrying about a couple models.
 ### [Raspberry Pi Zero](https://www.adafruit.com/product/2885) ([W](https://www.adafruit.com/product/3400))
@@ -28,16 +24,19 @@ You really should only be worrying about a couple models.
 
 *Source: [Adafruit](https://www.adafruit.com/product/3400).*
 
-This tiny $10 thing packs a real punch.
+This tiny $10 thing packs a real punch. Don't have a ton of space for your project? Get the Zero.
 
 You get 512 MB of RAM, a 1 GHz core, and a great form factor that could even fit in a [mint tin](https://blog.adafruit.com/2016/03/04/mintypi-a-pi-zero-based-gaming-system-in-a-mint-tin-piday-raspberrypi-raspberry_pi/).
 #### Purchasing
 [Adafruit](https://www.adafruit.com) sells these at the MSRP: $5 for the regular, and $10 the wireless board. However, this comes with one caveat: you can only purchase one at a time.
 
-For a long time, the only way that I knew of to buy multiple Pi Zeros at once (without incurring over $5 in shipping fees each time) was to walk into [Micro Center](http://www.microcenter.com/product/486575/zero_w). *And then leave, and then walk back in, and then leave, and then walk back in.*
+Why do the Raspberry Pi resellers place buying limits? As James Hughes, a Raspberry Pi engineer, [put it](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364): "You can buy Zero's in quantity, if you commit to large scale purchasing (1000's), and you will pay more than the individual price (i.e. > $10 for the Pi0W). Basically, a deal with the Foundation."
 
-Actually, you have a few other options:
+This implies that the Foundation makes a very small profit margin off the Zero at the $10 price, and the quantity is limited to encourage people to purchase the more expensive models.
 
+Still, there are ways to get around this with certain resellers without incurring multiple shipping charges by:
+
+- Walking into a Micro Center store and purchasing them at an [ever increasing rate](www.microcenter.com/product/486575/Zero_W).
 - Bundle up. Get anything ranging from the most [barebones](https://www.adafruit.com/product/3409) to the [complete starter](https://www.adafruit.com/product/3411) bundles from Adafruit or [elsewhere](https://www.amazon.com/CanaKit-Raspberry-Wireless-Starter-Official/dp/B06XJQV162/ref=sr_1_4?ie=UTF8&qid=1516122403&sr=8-4&keywords=Raspberry+Pi+Zero+W).
 
 or...
@@ -72,6 +71,8 @@ What if you **do** want a "desktop" rival? What if you want to do even more with
 The Raspberry Pi third-gen [Model B flagship board](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) is my weakness. What can justify paying $35 instead of $10?
 
 A quad-core, 1.2 GHz Broadcom CPU and 1 GB of RAM. *And*, of course, wireless on board.
+
+The Raspberry Pi Foundation says
 
 *No purchasing problems here. You're welcome.*
 
@@ -175,4 +176,3 @@ Raspberry Pi 3 [Digital image]. (n.d.). Retrieved from [https://www.raspberrypi.
 Raspberry Pi Compute Module I/O Board V3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3442](https://www.adafruit.com/product/3442)
 
 Break-away 0.1" 2x20-pin Strip Dual Male Header [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/2822](https://www.adafruit.com/product/2822)
-

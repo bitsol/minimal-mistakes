@@ -139,7 +139,7 @@ To get a Raspberry Pi functioning as its own desktop computer (if you aren't run
 - A monitor + HDMI cable.
 - A keyboard and mouse.
 - An SD card.
-- Another computer to [flash the SD card](https://learn.adafruit.com/setting-up-a-raspberry-pi-with-noobs/overview) with your chosen operating system or the New Out Of the Box Software (NOOBS) installer, if it isn't pre-installed already.
+- Another computer to [flash the SD card](https://learn.adafruit.com/setting-up-a-raspberry-pi-with-noobs/overview) with your chosen operating system or the New Out Of the Box Software (NOOBS) installer, if it isn't pre-flashed already.
 - A 5v mobile micro-USB power supply.
 
 For the Zero you'll also need...

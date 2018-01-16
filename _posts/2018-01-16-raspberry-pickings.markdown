@@ -85,12 +85,12 @@ The Raspberry Pi Foundation says
 
 According to the Raspberry Pi Foundation, "The Compute Module 3 is a Raspberry Pi 3 in a more flexible form factor, intended for industrial application[.]"
 
-The Compute Module 3 shown above (which even has 4GB of flash memory onboard) looks much easier to cram into small spaces than the Pi 3:
-
+The Compute Module 3 shown above (which even has 4GB of flash memory onboard) looks much easier to cram into small spaces than the Pi 3.
+<!---
 ![Raspberry Pi 3](https://www.raspberrypi.org/app/uploads/2017/05/Raspberry-Pi-3-462x322.jpg)
 
 *Source: [Raspberry Pi Foundation](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/).*
-
+--->
 Q&A:
 
 *Where are my IO pins???*
@@ -125,8 +125,9 @@ If you are purchasing a Raspberry Pi Zero or Zero W and want to connect hardware
 
 *Source: [Adafruit](https://www.adafruit.com/product/2822).*
 
-"Like blue jeans and Coca-Cola, the 2x20 male header is the classic option." (Fried, 2015)
-I highly recommend a classic [male header](https://www.adafruit.com/product/2822) (shown above), which gives the most connection strength. Combined with some [jumper wires](https://www.adafruit.com/product/1950) with at least one female connector, your Pi will be ready for anything.
+As Adafruit's founder and owner quips: "Like blue jeans and Coca-Cola, the 2x20 male header is the classic option." (Fried, 2015)
+
+I also highly recommend a [male header](https://www.adafruit.com/product/2822) (shown above), which gives the most connection strength. Combined with some [jumper wires](https://www.adafruit.com/product/1950) with at least one female connector, your Pi will be ready for anything.
 
 ### Headless Setup
 When you purchase a board (especially the Zero), don't expect it to function on its own without adapters and peripherals.
@@ -164,7 +165,9 @@ Up next are some posts on interfacing and building Pi hardware, making IoT (Inte
 
 ## References
 ### Quotes
+Hughes, J. (2017, October 11). Re: use pi zero w in commercial production [Forum post]. Retrieved from [https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364).
 
+Fried, Limor. (2015, October 26). GPIO header options. In *Introducing the Raspberry Pi Zero* Retrieved from [https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options).
 
 ### Images
 Raspberry Pi Zero W [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3400](https://www.adafruit.com/product/3400)
@@ -175,7 +178,9 @@ Raspberry Pi 3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com
 
 Raspberry Pi Compute Module 3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3440](https://www.adafruit.com/product/3440)
 
+<!---
 Raspberry Pi 3 [Digital image]. (n.d.). Retrieved from [https://www.raspberrypi.org/products/raspberry-pi-3-model-b/](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+--->
 
 Raspberry Pi Compute Module I/O Board V3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3442](https://www.adafruit.com/product/3442)
 

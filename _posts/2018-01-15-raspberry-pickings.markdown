@@ -2,7 +2,7 @@
 title: "Raspberry Pickings: Choosing and using a Raspberry Pi"
 tags:
   - raspberrypi
-published: false
+published: true
 ---
 When you want to build an embedded hardware project (like me), or just purchase a cheap board for its possibilities, you should turn to the Raspberry Pi.
 ## Why?
@@ -18,7 +18,7 @@ At this point, you're probably asking yourself why you should even bother using 
 - Price. Pis range from $5 to around $35 for a bare board.
 
 ## Which One?
-You really should only be worrying about a couple models.
+You really should only be worrying about a few models.
 ### [Raspberry Pi Zero](https://www.adafruit.com/product/2885) ([W](https://www.adafruit.com/product/3400))
 ![Raspberry Pi Zero](https://cdn-shop.adafruit.com/1200x900/3400-00.jpg)
 

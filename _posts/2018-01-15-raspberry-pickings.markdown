@@ -2,7 +2,7 @@
 title: "Raspberry Pickings: Choosing and using a Raspberry Pi"
 tags:
   - raspberrypi
-published: false
+published: true
 ---
 When you want to build an embedded hardware project, or just purchase a cheap board for its possibilities, you should turn to the Raspberry Pi.
 ## Why?

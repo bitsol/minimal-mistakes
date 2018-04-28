@@ -1,0 +1,71 @@
+---
+title: "Why Buy a Raspberry Pi?"
+tags:
+  - raspberrypi
+published: true
+---
+If you want to build a small embedded hardware project, automate things in your household, or just purchase a cheap computer for its
+possibilities, you should turn to the Raspberry Pi.
+
+Picture buttons that automate anything, mini-PCs that can control your appliances, and DIY gadgets to amplify your life.
+
+Picture a small arcade button that triggers your Internet connected smart toaster to tell your open source voice assistant that it should
+activate the remote fish feeder...
+you can do all that with a Raspberry Pi. In fact, you can build all those things with a Raspberry Pi computer at the center of the operation.
+
+## Why Pi?
+If all you wanted to do was open your garage with a custom clicker remote (not the strongest of examples, mind you), why would you even buy a **microcomputer** such as a Raspberry Pi?
+If a full computer isn't required,
+why wouldn't you just [purchase](https://www.adafruit.com/product/2000) or
+[build](https://hwstartup.wordpress.com/2013/03/06/how-to-build-a-5-arduino-clone/) an Arduino-like **microcontroller**?
+
+Hang on, let's step back for a minute.
+
+## Microcontroller vs Microcomputer
+
+Raspberry Pis are microcomputers.
+
+Arduinos are microcontrollers.
+
+Computers normally have memory for fast caching (RAM), a central processing unit (CPU), and some kind of storage device. To output pixels
+to a monitor, you'll also need some kind of graphics processing unit (GPU).
+
+A microcontroller has all of those (bar the last one), albeit in very small amounts. They are normally cheaper than fully-fledged computers. As Patrick Di Justo (2015) [has explained it](https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/): "A microcontroller is a simple computer that can run one program at a time, over and over again."
+
+For the rest of this post, when I say "computer" or "microcomputer" I am referring to the Raspberry Pi, and when I say "microcontroller" I am referring to an Arduino-like board (as defined above).
+
+Anyway, the Raspberry Pi Foundation seems to have perfected the engineering process,
+and in doing so has produced cheap computers that are just more useful than microcontrollers in every way.
+- IO. 40 GPIO pin slots, even on the model that to me looks to be on par with an Arduino Uno (which has just 14 pins).
+
+- Linux. Microcontrollers are designed to run one piece of code until power is cut. With a computer, you can run as many services as you want,
+which is highly useful even in the most embedded projects.
+
+- My favorite: Wireless. Nearly all of the latest Pis include Wi-Fi and Bluetooth.
+That's enough to make me ditch the idea of microcontrollers.
+
+- Price. You get all these goodies, and you can still purchase a Raspberry Pi Zero with wireless connectivity for as low as $10.
+
+Here's when you may NOT want a Raspberry Pi:
+- When space is a major issue. Remember that garage clicker I mentioned? As I envision the size, it might not be the best idea for a Raspberry Pi.
+- Price in bulk. We will later [learn](https://bitsol.github.io/raspberry-pickings/) that the Pi Zero (the really small one) has some profit margin related
+buying issues surrounding it, and that the industrial alternative can get pretty pricey.
+
+## Wrapping Up
+You should use a Raspberry Pi to make your life easier if any of these things move you:
+
+- Power. If you want to stack multiple projects, or run a few services (such as GPIO [General Purpose Input Output] + Bluetooth + a web server + a SSH [Secure Shell] server) that use some computing power, the Raspberry Pi is your friend.
+- Power. The power consumption of the Raspberry Pi is negligible.
+
+If you plan to use a dirt cheap microcontroller, chances are you would benefit more from a stripped-down operating system running on a small $10 Raspberry Pi Zero W. Here's how:
+
+- Wireless. Pretty much all of the latest-gen Pis include Wi-Fi and Bluetooth. No more extra modules, and no feature left behind.
+- Linux. You can do anything on a PC, they say. Raspberry Pi computers run Linux, I say. Why complain?
+- Price. Pis range from $10 to around $35 for a bare board. See "Wireless" to remind yourself of why this price is worth it.
+
+### What's Next?
+Up next will be a post to help you pick one of the latest Raspberry Pi models.
+
+## References
+### Quote
+Justo, P. D. (2015, December 04). Raspberry Pi or Arduino? One Simple Rule to Choose the Right Board. Retrieved from [https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/](https://makezine.com/2015/12/04/admittedly-simplistic-guide-raspberry-pi-vs-arduino/)

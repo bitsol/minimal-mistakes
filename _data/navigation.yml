@@ -1,0 +1,6 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Source Code"
+    url: https://github.com/bitsol/bitsol.github.io

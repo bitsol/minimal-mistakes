@@ -141,7 +141,7 @@ Up next are some posts on interfacing with hardware on the Pi, making IoT (Inter
 Until next time...
 ## References
 ### Quotes
-Fried, Limor. (2015, October 26). GPIO header options. In *Introducing the Raspberry Pi Zero*. Retrieved from [https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options).
+Fried, L. (2015, October 26). GPIO header options. In *Introducing the Raspberry Pi Zero*. Retrieved from [https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options](https://learn.adafruit.com/introducing-the-raspberry-pi-zero/gpio-header-options).
 
 Hughes, J. (2017, October 11). Re: use pi zero w in commercial production [Forum post]. Retrieved from [https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=176662#p1221364).
 
@@ -157,6 +157,3 @@ Raspberry Pi 3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com
 Raspberry Pi Compute Module 3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3440](https://www.adafruit.com/product/3440)
 
 Raspberry Pi Compute Module I/O Board V3 [Digital image]. (n.d.). Retrieved from [https://www.adafruit.com/product/3442](https://www.adafruit.com/product/3442)
-
-
-Did you actually scroll down this far? I got nothing more to show you. Sorry.

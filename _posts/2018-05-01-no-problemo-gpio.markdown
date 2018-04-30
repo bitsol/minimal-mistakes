@@ -63,14 +63,14 @@ This is a microswitch.
 
 <img src="https://cdn-shop.adafruit.com/970x728/473-02.jpg">
 
-*This one is two-legged, as there's no LED. Source: [Adafruit](https://www.adafruit.com/product/473).*
+*This one is two-legged, because there's no LED. Source: [Adafruit](https://www.adafruit.com/product/473).*
 
 
 This is another microswitch.
 
 <img src="https://cdn-shop.adafruit.com/970x728/1185-01.jpg">
 
-*Built-in LED + resistor, four legs, and a whole heck of confusion. Source: [Adafruit](https://www.adafruit.com/product/1185).*
+*It's got a built-in LED with a resistor, four legs, and a whole heck of confusion. Source: [Adafruit](https://www.adafruit.com/product/1185).*
 
 They need to be attached to the button somehow, and if that means screwing it in tight, don't be shy!
 
@@ -107,7 +107,7 @@ This diagram applies to the four-legged button above. However, common sense can 
 As for the LED polarity (negative and positive), if it's not too obvious, you can just swap the wires around until it lights with your code.
 
 #### A Note on Resistors
-To avoid damage to your Pi or LED, you'll need at least a 330-ohm [resistor](https://www.adafruit.com/category/837) wired up (you can just twist the wires) on the positive (longer end) of the LED to make sure nothing explodes.
+To avoid damage to your Pi or LED, you'll need at least a 330-ohm [resistor](https://www.adafruit.com/category/837) wired up (you can just twist the wires) on the positive (longer end) of the LED to make sure nothing explodes. Or just doesn't work.
 #### From GPIO Pins to Wires
 
 If you really want this:

@@ -49,7 +49,7 @@ Let's understand this. There are three main types of numberings for the actual I
 So, any given pin is either for supplying or diverting power to/from the Raspberry Pi, configurable as an input or output for any kind of devices, should be reserved for a specific kind of device interface, or can be used for ground. Let's look at a practical example instead of these confusing words, shall we?
 
 ### Connecting a Device
-To do this, you should be using jumper leads (preferably with female plugs) in your male header. The other end can go to whatever you want.
+To do this, you should be using jumper leads in your header. To provide the strongest connection, use a male header and female jumpers. The other end can go to whatever you want.
 
 If you're just digesting this information, you may ask why I'm not using a breadboard (a plastic board with goodies such as a ground rail, typically used for prototyping). The answer is, it's not compact enough for me, and for most small scale projects a full-sized breadboard is overkill.
 
